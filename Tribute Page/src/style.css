@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+#img-div{
+}
+#image {
+width: 20%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
